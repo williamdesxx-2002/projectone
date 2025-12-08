@@ -1,0 +1,7 @@
+{
+  "name": "Alloword - Marketplace Services Libreville",
+  "description": "La plateforme de référence pour trouver des prestataires de services à Libreville, Gabon. Recherche géolocalisée et réservations simplifiées.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
